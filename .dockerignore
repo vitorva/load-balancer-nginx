@@ -1,4 +1,5 @@
 ./node_modules
+./img
 Dockerfile
 dockerignore
 docker-compose.yml
